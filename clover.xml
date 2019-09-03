@@ -4,5 +4,5 @@
   <project name="KOSUGAHANANE/android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="github" />
   <project name="KOSUGAHANANE/android_kernel_xiaomi_clover" path="kernel/xiaomi/clover" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="KOSUGAHANANE/vendor_xiaomi" path="vendor/xiaomi" remote="github" />
+  <project name="KOSUGAHANANE/android_vendor_xiaomi_clover" path="vendor/xiaomi/clover" remote="github" />
 </manifest>
